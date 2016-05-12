@@ -10,6 +10,6 @@ The first line of the input contains an integer n. The next line contains a sequ
 ```
 
 ##Output(Sorted Array):
-···
+```
 2 2 2 3 9
-···
+```
