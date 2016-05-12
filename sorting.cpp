@@ -88,7 +88,7 @@ int main()
 		std::cout << a[i] << ' ';
 	}
 
-	// The following code is used to perform the stress test to ensure the validity of the algorithm
+	// The following code is sample test used to perform the stress test to ensure the validity of the algorithm
 	/*int n = 15;
 
 	bool flag = true;
